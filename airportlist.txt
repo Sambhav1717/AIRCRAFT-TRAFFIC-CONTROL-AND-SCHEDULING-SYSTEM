@@ -1,0 +1,10 @@
+# Airport information (code; name; location)
+DEL;Indira Gandhi International Airport;New Delhi, India
+MUM;Chhatrapati Shivaji Maharaj International Airport;Mumbai, India
+BLR;Kempegowda International Airport;Bengaluru, India
+HYD;Rajiv Gandhi International Airport;Hyderabad, India 
+CCU;Netaji Subhas Chandra Bose International Airport;Kolkata, India
+COK;Cochin International Airport;Kochi, India
+AMD;Sardar Vallabhbhai Patel International Airport;Ahmedabad, India
+PNQ;Pune International Airport;Pune, India 
+MAA;Chennai International Airport;Chennai, India

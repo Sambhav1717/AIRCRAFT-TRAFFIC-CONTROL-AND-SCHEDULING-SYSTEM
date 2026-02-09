@@ -1,0 +1,33 @@
+# Airport information (code; name; location; capacity)
+DEL;Indira Gandhi International Airport;New Delhi, India;1500  
+MUM;Chhatrapati Shivaji Maharaj International Airport;Mumbai, India;1400  
+BLR;Kempegowda International Airport;Bengaluru, India;1700  
+HYD;Rajiv Gandhi International Airport;Hyderabad, India;1600  
+CCU;Netaji Subhas Chandra Bose International Airport;Kolkata, India;1450  
+COK;Cochin International Airport;Kochi, India;1300  
+AMD;Sardar Vallabhbhai Patel International Airport;Ahmedabad, India;1200  
+PNQ;Pune International Airport;Pune, India;1100  
+MAA;Chennai International Airport;Chennai, India;1550 
+GOI;Goa International Airport;Goa, India;1000  
+
+
+# Runway and Terminal information (code; runway; length; terminal; gates)
+DEL;09/27;2816;T1;5  
+DEL;10/28;3813;T2;6  
+MUM;09/27;3445;T1;5  
+MUM;14/32;2869;T2;6  
+BLR;09/27;4000;T1;7  
+BLR;09/27;4000;T2;8  
+HYD;09/27;3500;T1;6  
+HYD;10/28;3800;T2;7  
+CCU;06/24;3200;T1;5  
+CCU;09/27;3600;T2;6  
+COK;08/26;2800;T1;4  
+COK;10/28;3200;T2;5  
+AMD;08/26;3500;T1;6  
+AMD;09/27;3800;T2;7  
+PNQ;08/26;3000;T1;4  
+PNQ;10/28;3200;T2;5  
+MAA;07/25;3658;T1;6  
+MAA;12/30;2930;T2;5 
+GOI;08/26;3450;T1;4 
